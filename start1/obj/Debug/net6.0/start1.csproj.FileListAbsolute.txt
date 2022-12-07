@@ -1,0 +1,15 @@
+D:\school_GB\I_quarter\C#_start_it\lection1\start1\bin\Debug\net6.0\start1.exe
+D:\school_GB\I_quarter\C#_start_it\lection1\start1\bin\Debug\net6.0\start1.deps.json
+D:\school_GB\I_quarter\C#_start_it\lection1\start1\bin\Debug\net6.0\start1.runtimeconfig.json
+D:\school_GB\I_quarter\C#_start_it\lection1\start1\bin\Debug\net6.0\start1.dll
+D:\school_GB\I_quarter\C#_start_it\lection1\start1\bin\Debug\net6.0\start1.pdb
+D:\school_GB\I_quarter\C#_start_it\lection1\start1\obj\Debug\net6.0\start1.csproj.AssemblyReference.cache
+D:\school_GB\I_quarter\C#_start_it\lection1\start1\obj\Debug\net6.0\start1.GeneratedMSBuildEditorConfig.editorconfig
+D:\school_GB\I_quarter\C#_start_it\lection1\start1\obj\Debug\net6.0\start1.AssemblyInfoInputs.cache
+D:\school_GB\I_quarter\C#_start_it\lection1\start1\obj\Debug\net6.0\start1.AssemblyInfo.cs
+D:\school_GB\I_quarter\C#_start_it\lection1\start1\obj\Debug\net6.0\start1.csproj.CoreCompileInputs.cache
+D:\school_GB\I_quarter\C#_start_it\lection1\start1\obj\Debug\net6.0\start1.dll
+D:\school_GB\I_quarter\C#_start_it\lection1\start1\obj\Debug\net6.0\refint\start1.dll
+D:\school_GB\I_quarter\C#_start_it\lection1\start1\obj\Debug\net6.0\start1.pdb
+D:\school_GB\I_quarter\C#_start_it\lection1\start1\obj\Debug\net6.0\start1.genruntimeconfig.cache
+D:\school_GB\I_quarter\C#_start_it\lection1\start1\obj\Debug\net6.0\ref\start1.dll
